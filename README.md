@@ -120,6 +120,12 @@ depending on the contents of the input image and the classes supported by the pr
 
 The detected objects are also visualized directly on the input images using bounding boxes.
 
+### Some sample outputs
+
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/e5f5ca2c-f70b-4bbc-a5a4-76c0e64c830f" />
+
+<img width="360" height="440" alt="image" src="https://github.com/user-attachments/assets/6fc98091-9254-470d-ba9b-7ee3afb6c34f" />
+
 ---
 
 ## Real-Time Object Detection
